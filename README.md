@@ -1,2 +1,6 @@
 # real-time-aec-experiments
-Real-time and interactive experiments exploring configuration logic, automation, and 3D workflows for AEC applications.
+This repository contains small real-time and interactive experiments exploring how
+parametric and configurable tools can support AEC workflows and design decision-making.
+
+The focus is on configuration logic, automation, and structured outputs rather than
+visual polish or production-ready applications.
